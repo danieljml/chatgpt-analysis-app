@@ -1,0 +1,21 @@
+body {
+  display: grid;
+  place-items: center;
+  background-color: #9db2bf;
+  height: 100vh;
+}
+
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px 30px;
+}
+
+button {
+  border-radius: 10px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
